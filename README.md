@@ -1,8 +1,6 @@
 # P2R-GCN
 *GCN based paper-researcher recommendation, SJTU EE447 course project.*
 
-A course report can be download from my [OneDrive](https://1drv.ms/b/s!AtiMpA7HPe0Qhcl4xIIRJb_tPLVdFw?e=iZRfV3)
-
 In this project, we build an acedemic paper recommendation system based on graph convolutional network fo researchers. We modeled paper-researcher(P2R) relationship as a large bipartite graph, based on such bipartite, we explored different embedding, sampling and training strategies to obtain good performance of proposed model.
 
 This model first embeds each node's attributes (e.g. venue, year, field of study(FOS)) into vectors. For FOS information, it first processed by [fastText](https://fasttext.cc/) word embedding.
