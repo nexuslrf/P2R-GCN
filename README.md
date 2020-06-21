@@ -52,9 +52,9 @@ MRRs:
 After generating necessary cache files, you can directly run `demo.py` to try our model.
 Here are some demo results:
 
-![demo1](img/demo1.pdf)
+![demo1](img/demo1.png)
 
-![demo2](img/demo2.pdf)
+![demo2](img/demo2.png)
 
 ## Reference & Credits:
 
